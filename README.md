@@ -3,6 +3,37 @@
 *Modul:* Praxisorientierte Forschung und Entwicklung im Team  
 *Studentin:* Lilian Adimchinobi Amatobi  
 
+## 🌿 Einführung / Introduction
+
+Das Modul *„Projektlabor Gartenbau“* an der Hochschule Weihenstephan-Triesdorf (HSWT) bietet Studierenden die Möglichkeit, praxisorientierte Projekte zu aktuellen Herausforderungen des Gartenbaus zu entwickeln und umzusetzen.  
+Der Kurs fördert eigenständiges Arbeiten, Teamfähigkeit, Kommunikations- und Projektmanagementkompetenzen sowie den gezielten Einsatz wissenschaftlicher Recherche.  
+Im Mittelpunkt steht die *Verknüpfung von Theorie und Praxis*, um innovative Lösungen für reale Problemstellungen im Gartenbau zu erarbeiten.  
+
+In this module, *“Horticultural Project Laboratory”*, students at HSWT develop and implement practice-oriented projects that address current challenges in horticulture.  
+The course emphasizes *independent work, teamwork, communication, and project-management skills*, combined with structured scientific research.  
+Its central aim is to *connect theory with practice* and create innovative solutions for real-world horticultural issues.
+
+Für das Sommersemester 2025 konzentriert sich dieses Projekt auf das Thema  
+*„Digitalisierung und Smart Farming im Gartenbau“*,  
+mit besonderem Fokus auf  
+*„Smart Farming Solutions for Efficient Greenhouse Production“* und  
+*„Digital Transformation in Vegetable Production Systems“*.  
+
+For the 2025 semester, this project focuses on  
+*“Digitalization and Smart Farming in Horticulture,”*  
+with a special emphasis on  
+*“Smart Farming Solutions for Efficient Greenhouse Production”* and  
+*“Digital Transformation in Vegetable Production Systems.”*
+
+---
+
+## 🧭 Projektzusammenfassung / Project Abstract  
+
+*Deutsch:*  
+Dieses Projekt untersucht, wie digitale Technologien und Smart-Farming-Konzepte die Effizienz, Nachhaltigkeit und Entscheidungsprozesse im Gartenbau verbessern können.  
+Der Schwerpunkt liegt auf der Anwendung von Sensorik, Datenanalyse und Automatisierung zur Optimierung der Gewächshausproduktion und der Gemüseanbausysteme.  
+Durch die Kombination von theoretischer Recherche, Fallstudien und digitaler Dokumentation soll ein praxisnahes Verständnis für die Chancen und Grenzen der Digitalisierung im Gartenbau entwickelt werden.
+
 ---
 
 ## 🪴 Projektübersicht / Project Overview  
