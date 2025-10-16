@@ -27,6 +27,20 @@ with a special emphasis on
 
 ---
 
+### 🤝 Gruppenarbeit / Group Context
+Dieses Projekt ist Teil der *Gruppe 3 – Digitalisierung und Smart Farming*.  
+Während die Gruppe gemeinsam die digitale Transformation des Gartenbaus untersucht, liegt mein individueller Schwerpunkt auf  
+*Smart-Farming-Lösungen für eine effiziente Gewächshausproduktion* und *Digitalisierung in Gemüseproduktionssystemen*.  
+Die Ergebnisse meiner Recherchen und Dokumentation tragen zum Gesamtverständnis und zur Präsentation der Gruppe bei.
+
+### 🤝 Group Context / Gruppenarbeit
+This project is part of *Group 3 – Digitalisierung und Smart Farming*.  
+While the group collectively explores the digital transformation of horticulture, my individual focus lies on  
+*Smart Farming Solutions for Efficient Greenhouse Production* and *Digital Transformation in Vegetable Production Systems*.  
+Results from my research and documentation contribute to the group’s overall understanding and presentation.
+
+---
+
 ## 🧭 Projektzusammenfassung / Project Abstract  
 
 *Deutsch:*  
@@ -72,25 +86,41 @@ It explores how smart farming technologies such as sensors, data analytics, and 
 
 ---
 
-## 📅 Wochenprotokoll / Weekly Log  
+## 📅 Wochenprotokoll / Weekly Log 
 
-### 🌱 Woche 1 – Planung und Zielsetzung / Planning & Objectives  
-*Datum:* [Insert Date]  
+### 🌱 Woche 1 – Planung und Zielsetzung / Week 1 – Planning & Objectives  
 *Aktivitäten / Activities:*  
-- Einführung in die Projektgruppen / Introduction to project teams  
-- Definition der Projektziele / Defined project goals  
-- Auswahl des Forschungsthemas „Digitalisierung und Smart Farming“ / Chose research focus  
+- Beginn des Moduls Projektlabor Gartenbau und Überblick über Struktur und Ziele.  
+  Started the Horticultural Project Laboratory module and reviewed its structure and objectives.  
+- Bestätigung der Gruppenzugehörigkeit (*Gruppe 3 – Digitalisierung und Smart Farming*) und Definition meines individuellen Schwerpunkts:  
+  Confirmed group assignment (*Group 3 – Digitalization and Smart Farming*) and defined my individual focus areas:  
+  *Smart Farming Solutions for Efficient Greenhouse Production* und *Digital Transformation in Vegetable Production Systems*.  
+- Einrichtung meines GitHub-Portfolios als digitale Arbeits- und Dokumentationsplattform.  
+  Set up my GitHub portfolio as a digital workspace and documentation platform.  
+- Strukturierung der Dateien: README.md, research_plan.md, project_pitch.md.  
+  _Organized key files: README.md, research_plan.md, project_pitch.md._  
+- Entwicklung des ersten Projektpitches mit Problemstellung, Ziel, Lösungskonzept und Methodik.  
+  Developed the initial project pitch including problem, goal, solution concept and methodology.  
+  
+---
 
 *Reflexion / Reflection:*  
-- Erste Eindrücke vom Thema und dessen Bedeutung für den modernen Gartenbau  
-- Welche Fragen möchte ich im Laufe des Projekts beantworten?  
-- Initial insights into the topic and its relevance to modern horticulture  
-- What questions do I aim to answer throughout the project?  
+Diese Woche diente der Orientierung und Organisation. Ich habe gelernt, wie GitHub als digitales Portfolio im Gartenbau genutzt werden kann und wie Markdown-Dateien eine klare Struktur für die Dokumentation bieten. Obwohl die technische Einrichtung (Git, VS Code, Repository-Struktur) zunächst herausfordernd war, habe ich nun ein effizientes System für die laufende Dokumentation aufgebaut. Ich fühle mich sicher im Umgang mit digitalen Werkzeugen zur Dokumentation meiner gartenbaulichen Forschungsaktivitäten.  
+
+This week was dedicated to orientation and organization. I learned how GitHub can be used as a digital portfolio in horticulture and how Markdown files help create a clear structure for documentation. Although the technical setup (Git, VS Code, repository structure) was challenging at first, I now have an efficient system for continuous documentation and feel confident using digital tools for my horticultural research work.
 
 ---
 
-### 🌿 Woche 2 – Projektvorbereitung / Project Preparation  
-*Datum:* [Insert Date]  
+*Nächste Schritte / Next Steps:*  
+- Beginn der Literaturrecherche zu Smart-Farming-Technologien (FAO, KTBL, SpringerLink).  
+  Begin literature review on Smart Farming technologies (FAO, KTBL, Springer Link).  
+- Sammlung und Teilen erster wissenschaftlicher Quellen im Moodle-Gruppenordner.  
+  Collect and share first academic sources in the Moodle group folder.  
+- Vorbereitung des Wochenlogs für Woche 2.  
+  Prepare the Week 2 log.
+---
+
+### 🌿 Woche 2 – Projektvorbereitung / Project Preparation    
 *Aktivitäten / Activities:*  
 - Literaturrecherche zu Smart-Farming-Technologien  
 - Analyse von Beispielen digitaler Anwendungen im Gartenbau  
@@ -105,7 +135,6 @@ It explores how smart farming technologies such as sensors, data analytics, and 
 ---
 
 ### 🌸 Woche 3–4 – Durchführung / Implementation  
-*Datum:* [Insert Date]  
 *Aktivitäten / Activities:*  
 - Untersuchung ausgewählter Smart-Farming-Beispiele (z. B. Sensorik, IoT-Plattformen, Datenerfassung)  
 - Erstellung einer digitalen Dokumentation und Prozessbeschreibung  
@@ -118,8 +147,7 @@ It explores how smart farming technologies such as sensors, data analytics, and 
 
 ---
 
-### 🌾 Woche 5–6 – Auswertung & Präsentation / Evaluation & Presentation  
-*Datum:* [Insert Date]  
+### 🌾 Woche 5–6 – Auswertung & Präsentation / Evaluation & Presentation 
 *Aktivitäten / Activities:*  
 - Zusammenfassung der Forschungsergebnisse  
 - Vorbereitung der Präsentation und der Abschlussdokumentation  
@@ -160,4 +188,3 @@ It explores how smart farming technologies such as sensors, data analytics, and 
 ---
 
 ## 📸 Anhänge / Attachments  
-Add diagrams, data, and photos related to greenhouse and vegetable production technologies later.
