@@ -101,7 +101,7 @@ It explores how smart farming technologies such as sensors, data analytics, and 
   _Organized key files: README.md, research_plan.md, project_pitch.md._  
 - Entwicklung des ersten Projektpitches mit Problemstellung, Ziel, Lösungskonzept und Methodik.  
   Developed the initial project pitch including problem, goal, solution concept and methodology.  
-  
+
 ---
 
 *Reflexion / Reflection:*  
@@ -161,30 +161,69 @@ This week was dedicated to orientation and organization. I learned how GitHub ca
 
 ---
 
-### 🧪 Methodik / Methodology  
-- Literaturrecherche zu Smart-Farming-Technologien in Gewächshaus- und Gemüseproduktion  
-- Analyse von Fallbeispielen (digitale Systeme, Sensorik, Apps)  
-- Erstellung eines digitalen Portfolios auf GitHub und Moodle  
-- Literature review on Smart Farming tools in greenhouse and vegetable systems  
-- Case study analysis (digital systems, sensors, apps)  
-- Digital documentation via GitHub and Moodle  
+## 🧪 Methodik / Methodology  
+
+*Deutsch:*  
+Dieses Projekt basiert auf einer literaturgestützten Analyse zur Identifizierung digitaler Technologien und Smart-Farming-Lösungen im Gartenbau.  
+Der Schwerpunkt liegt auf der Effizienzsteigerung in Gewächshaus- und Gemüseproduktionssystemen.  
+Methodisch erfolgt die Arbeit in mehreren Schritten:  
+
+1. Sammlung und Analyse wissenschaftlicher Quellen (FAO, KTBL, SpringerLink, Fachjournale)  
+2. Vergleich bestehender Smart-Farming-Technologien (Sensorik, Automatisierung, Datenmanagement)  
+3. Bewertung des Potenzials digitaler Lösungen für nachhaltige Gartenbaupraktiken  
+4. Dokumentation der Ergebnisse in GitHub (Markdown-Struktur, Wochenprotokolle, Quellenarchiv)  
+
+*English:*  
+This project is based on a literature-driven analysis to identify digital technologies and Smart Farming solutions in horticulture.  
+The focus is on improving efficiency in greenhouse and vegetable production systems.  
+The methodological process includes:  
+
+1. Collecting and analyzing scientific sources (FAO, KTBL, SpringerLink, professional journals)  
+2. Comparing existing Smart Farming technologies (sensors, automation, data management)  
+3. Evaluating the potential of digital solutions for sustainable horticultural practices  
+4. Documenting findings in GitHub (Markdown structure, weekly logs, research archive)
 
 ---
 
 ## 📊 Ergebnisse / Results  
+
+*Deutsch:*  
+Derzeit liegen noch keine endgültigen Ergebnisse vor.  
+Dieser Abschnitt wird nach Abschluss der Literaturrecherche und Analysephase ergänzt.  
+Aktuell befindet sich das Projekt in der Vorbereitungs- und Recherchephase.  
+
+*English:*  
+At this stage, no final results are available yet.  
+This section will be updated after the completion of the literature review and analysis phase.  
+The project is currently in the preparation and research stage.  
+
+---
+
+### 🧠 Vorläufige Erkenntnisse / Preliminary Insights  
 - Identifizierte Smart-Farming-Lösungen für effiziente Gewächshausproduktion  
 - Übersicht der digitalen Transformationsansätze in Gemüseproduktionssystemen  
 - Identified Smart Farming solutions for efficient greenhouse management  
-- Overview of digital transformation methods in vegetable production  
+- Overview of digital transformation approaches in vegetable production systems  
 
 ---
 
-## 🧠 Fazit & Ausblick / Conclusion & Outlook  
-- Digitalisierung bietet große Chancen für Nachhaltigkeit und Effizienzsteigerung im Gartenbau  
-- Weitere Forschung könnte sich auf die Umsetzung in kleinen Betrieben konzentrieren  
-- Digitalization opens strong opportunities for sustainable and efficient horticulture  
-- Future studies could focus on practical implementation in small-scale farms  
+## 🌱 Fazit & Ausblick / Preliminary Conclusion & Outlook  
+
+*Deutsch:*  
+Diese Schlussfolgerung ist vorläufig und basiert auf dem aktuellen Stand der Projektvorbereitung.  
+Die bisherigen Erkenntnisse zeigen, dass Digitalisierung und Smart Farming bedeutende Potenziale für Nachhaltigkeit und Effizienz im Gartenbau bieten.  
+Ein ausführlicheres Fazit folgt nach Abschluss der Literaturrecherche und Projektanalyse.  
+
+*English:*  
+This conclusion is preliminary and based on the current stage of project preparation.  
+Initial insights indicate that digitalization and Smart Farming have strong potential for improving sustainability and efficiency in horticulture.  
+A detailed conclusion will be added after completing the literature review and project analysis.
 
 ---
 
-## 📸 Anhänge / Attachments  
+## 📎 Anhänge / Attachments  
+- Research PDFs and literature sources (FAO, KTBL, academic journals)  
+- Project pitch, research plan, and workshop notes  
+- Figures, charts, or photos will be added in later stages  
+
+---
